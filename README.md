@@ -30,9 +30,7 @@
 <br>
 
 <div align="center">
-  <a href="http://solved.ac/yb5464"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yb5464"/></a>
-  
-  <a href="http://solved.ac/yb5464"><img src="http://mazandi.herokuapp.com/api?handle=yb5464&theme=dark"/></a>
+  <a href="http://solved.ac/yb5464"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yb5464"/></a> <a href="http://solved.ac/yb5464"><img src="http://mazandi.herokuapp.com/api?handle=yb5464&theme=dark"/></a>
 </div>
 
 
