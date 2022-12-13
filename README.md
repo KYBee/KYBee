@@ -23,7 +23,7 @@
 |<a href="http://sopt.org/wp/">S.O.P.T</a>|20.03 - 20.08|IT 창업동아리 SOPT 26기 기획파트원|
 |<a href="https://pirogramming.com/">피로그래밍</a>|20.12 - 21.02|피로그래밍 14기|
 |<a href="https://gdsc-cau.github.io/">GDSC</a>|21.09 - 22.07|Google Developer Student Clubs CAU Member|
-|<a href="https://ssafy.com/">SSAFY</a>|22.07 - |삼성 청년 SW 아카데미 8th 전공 JAVA 트랙|
+|<a href="https://ssafy.com/">SSAFY</a>|22.07 - 22.12|삼성 청년 SW 아카데미 8th 전공 JAVA 트랙|
 
 </div>
 <br>
