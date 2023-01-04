@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6CADDF&height=100&section=header&text=KIM%20YOUNGBEEN&fontSize=30&fontColor=FFFFFF&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6CADDF&height=200&section=header&text=KIM%20YOUNGBEEN&fontSize=40&fontColor=FFFFFF&animation=twinkling" />
 
 <p align="center">🇰🇷</p>
 
