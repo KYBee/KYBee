@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://render.gitanimals.org/farms/KYBee" width="100%" />
+<p align="left">
+  <img src="https://render.gitanimals.org/farms/KYBee" width="500px" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=KYBee&theme=tokyonight&border_radius=6" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=KYBee&theme=tokyonight&border_radius=6" width="500px" />
   </a>
 </p>
 
