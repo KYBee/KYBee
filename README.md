@@ -1,6 +1,12 @@
-<img src="https://render.gitanimals.org/farms/KYBee" width="500" />
+<p align="center">
+  <img src="https://render.gitanimals.org/farms/KYBee" width="100%" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KYBee&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=KYBee&theme=tokyonight&border_radius=6" width="100%" />
+  </a>
+</p>
 
 ## 💻 Skills
 
