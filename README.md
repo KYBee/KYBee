@@ -14,6 +14,9 @@
 
 ## 📌 Experience
 
+> **[SIPE](https://sipe.team/) (26.03 – 26.07)**  
+  SIPE 5기
+
 > **[SSAFY](https://www.ssafy.com/) (22.07 – 22.12)**  
   삼성 청년 SW 아카데미 8th 전공 JAVA 트랙
 
